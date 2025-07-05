@@ -9,9 +9,16 @@
 <tr>
 <td width="50%">
 
-🔍 I'm <b>Vasanth S</b>, a passionate AI/ML Developer and researcher currently pursuing my B.Tech in <b>Artificial Intelligence and Data Science</b> at <b>K.S. Rangasamy College of Technology</b>.
+🔍 I'm <b>Vasanth S</b>, an AI/ML Developer and researcher pursuing a B.Tech in <b>Artificial Intelligence and Data Science</b> at <b>K.S. Rangasamy College of Technology</b>.
 
-🚀 I love building real-world applications using <b>transformer models</b>, <b>computer vision</b>, and <b>natural language processing</b>, with a strong focus on model optimization and empirical research.
+🚀 I build real-world solutions using <b>transformers, NLP, and computer vision</b>, with a focus on model optimization and empirical research.
+
+🧠 I'm deeply interested in <b>LLMs, AGI systems, and autonomous AI agents</b>, and I explore areas like <b>tokenization, fine-tuning, and data-centric AI</b>.
+
+🛠️ I work with tools like <b>PyTorch, LangChain, Hugging Face, and MLflow</b> to develop, analyze, and scale intelligent systems.
+
+🌱 I'm continuously learning and exploring new ideas in <b>AI safety, interpretability, and scalable model design</b>.
+
 
 </td>
 <td width="50%" align="center">
@@ -71,11 +78,14 @@
 
 
 ### 📚 Currently Learning  
-- 🔡 Tokenization & pretraining pipelines for LLMs  
-- 🧩 Transformer architectures (T5, BERT, Whisper)  
-- 🧬 Distributed deep learning systems  
-- 📈 Experiment tracking, data ablation  
-- 🧠 AI alignment and interpretability  
+- 🧠 Artificial General Intelligence (AGI) foundations and architectures  
+- 🤖 Autonomous AI agents (e.g., AutoGPT, AgentOps, CrewAI, LangGraph)  
+- 🧩 Multi-agent collaboration and goal-driven task planning  
+- 🧠 Transformer-based long-context and memory-augmented models  
+- 📊 Evaluating and aligning LLM behavior with human values  
+- 🔄 Continual learning, in-context learning, and retrieval augmentation  
+- 🔐 AI safety, robustness, and interpretability in frontier models  
+
 
 </td>
 </tr>
